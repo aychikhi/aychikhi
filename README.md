@@ -1,2 +1,2 @@
-<h2 align="left">Hey! i'm Aymane Chikhi</h2>
+<h2 align="left">Hey! i'm Aymane chikhi</h2>
 </p>
