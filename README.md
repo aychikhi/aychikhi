@@ -2,7 +2,7 @@
 
 <br/>
 <br/>
-<a align="center"  href="https://github.com/aychikhi"><img lign="center" src="https://badge.mediaplus.ma/starryblue/aychikhi" alt="aychikhi's 42 stats" /></a>
+<a align="center"  href="https://github.com/aychikhi"><img lign="center" src="https://badge.mediaplus.ma/black/aychikhi" alt="aychikhi's 42 stats" /></a>
 </div>
 <br/>
 
