@@ -1,11 +1,11 @@
 <h2 align="left">Hey! i'm Aymane chikhi</h2>
 
-<p align="center">
+<!-- <p align="center">
 <br/>
 <br/>
 <a align="center"  href="https://github.com/aychikhi"><img lign="center" src="https://badge.mediaplus.ma/black/aychikhi" alt="aychikhi's 42 stats" /></a>
 </div>
-<br/>
+<br/> -->
 
 <p align="center">
  </a>
