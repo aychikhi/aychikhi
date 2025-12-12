@@ -7,7 +7,7 @@
 </div>
 <br/> -->
 
-<p align="center">
+<!-- <p align="center">
  </a>
  <div align="center">
 
@@ -19,6 +19,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aychikhi" />
-</div>
+</div> -->
 
 <!--[42 Projects](https://github.com/aychikhi?tab=repositories&q=42-&type=&language=&sort=)
