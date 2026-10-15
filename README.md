@@ -1,41 +1,79 @@
-<h1 align="center">Hi, I'm Aymane 👋</h1>
-<p align="center"><strong>1337 student · 42 Network · Aspiring Java backend developer</strong></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/aychikhi?tab=repositories">Explore my repositories</a>
-</p>
+# hey, i'm aymane 👾
+
+**1337 student · code explorer · future backend developer**
+
+<img src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif" alt="Animated pixel-art coding room" width="850" />
+
+<br />
+<br />
+
+[![42 Network](https://img.shields.io/badge/42_Network-1337-a78bfa?style=for-the-badge&logo=42&logoColor=white)](https://github.com/aychikhi)
+[![Focus](https://img.shields.io/badge/Current_Focus-Java-c4b5fd?style=for-the-badge)](#-current-quest)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repos-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aychikhi?tab=repositories)
+
+*turning curiosity into code, one bug at a time.*
+
+</div>
 
 ---
 
-## About me
+### 🖥️ whoami
 
-I'm a student at **1337 School in Morocco**, part of the **42 Network**. I learn by building projects, solving problems, and understanding how things work under the hood.
+```yaml
+username: aychikhi
+name: Aymane
+school: 1337 / 42 Network
+base: Morocco
+foundation: [C, C++]
+learning: Java
+next_destination: Spring Boot backend development
+```
 
-- 💻 My programming foundation is in **C and C++**.
-- 🌱 I'm currently learning **Java**, with a focus on object-oriented programming.
-- 🎯 My goal is to become a **backend developer**, working with **Java and Spring Boot**.
-- 🐧 I work with **Linux, Git, and Docker**.
+I learn by building things, breaking them, and figuring out why.
+From pointers in C to objects in Java, I'm working toward building useful backend systems.
 
-## Languages & tools
+### 🎒 inventory
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-181825?style=for-the-badge&logo=c&logoColor=c4b5fd" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-181825?style=for-the-badge&logo=cplusplus&logoColor=c4b5fd" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-181825?style=for-the-badge&logo=openjdk&logoColor=c4b5fd" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-181825?style=for-the-badge&logo=linux&logoColor=c4b5fd" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-181825?style=for-the-badge&logo=git&logoColor=c4b5fd" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-181825?style=for-the-badge&logo=docker&logoColor=c4b5fd" alt="Docker" />
+</p>
 
-## My learning journey
+### 🎯 current quest
 
-| Area | What I've been working on |
-| --- | --- |
-| C programming | Libft, memory management, pointers, and problem solving |
-| C++ | Object-oriented programming and the 42 C++ modules |
-| Infrastructure | Inception: containerized services with Docker, Nginx, MariaDB, and WordPress |
-| Java | Practicing through Exercism and strengthening my OOP fundamentals |
+- **Main mission:** strengthen my Java and OOP fundamentals.
+- **Training ground:** coding exercises and hands-on projects.
+- **Next unlock:** Spring Boot, REST APIs, and database integration.
+- **Long-term goal:** become a backend developer.
 
-## Where I'm heading
+### 🗂️ quest log
 
-I'm building toward backend development: stronger Java fundamentals, then **Spring Boot**, **REST APIs**, and **database integration**.
+| Project / practice | Skills explored |
+| :--- | :--- |
+| **Libft** | Building a C library, pointers, and memory management |
+| **42 C++ modules** | Classes, inheritance, polymorphism, and templates |
+| **Inception** | Docker, Nginx, MariaDB, and WordPress |
+| **Java practice** | OOP fundamentals and problem solving on Exercism |
 
-<p align="center"><em>Learning by building. Improving one project at a time.</em></p>
+<details>
+<summary><b>🕹️ side quests</b></summary>
+
+<br />
+
+When I'm away from the terminal: football, gaming, and improving my English.
+
+</details>
+
+---
+
+<p align="center">
+  <a href="https://github.com/aychikhi?tab=repositories"><b>↓ Explore what I'm building ↓</b></a>
+  <br /><br />
+  <sub>Learning in progress. More commits ahead.</sub>
+</p>
