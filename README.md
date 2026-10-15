@@ -4,7 +4,7 @@
 
 **1337 · 42 Network · Morocco**
 
-<img src="assets/coding.gif" alt="Anime coding scene" width="600" />
+<img src="assets/coding-original.gif" alt="Anime coding scene" width="600" />
 
 <br /><br />
 
